@@ -4,7 +4,7 @@ Implement updateState feature of react using vanilla javascript and DOM manipula
 
 1. clone the repo and open [index.html](index.html) in a browser.
 2. open console under chrome dev tools using inspect element.
-3. run the below commands one by one.
+3. run the below commands one by one in chrome dev tools console.
 
 ```js
 initialState = JSON.parse(
